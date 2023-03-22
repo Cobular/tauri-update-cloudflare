@@ -9,4 +9,4 @@ GITHUB_REPO = 'MakerUpload'
 GITHUB_TOKEN = '' # Optional - used with private repos
 
 [build]
-command = "pnpm install && pnpm run build"
+command = "npm install && npm run build"
